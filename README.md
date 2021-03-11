@@ -1,5 +1,5 @@
 # projects
-Repositori kode untuk projek atau tugas yang pernah dibuat selama perkuliahan
+Repositori kode untuk sebagian projek atau tugas yang pernah dibuat selama perkuliahan
 dibuat oleh Sabrina Adeline
 
 # daftar isi
